@@ -1,0 +1,2 @@
+MOVE
+PLACE 0,0,EAST
