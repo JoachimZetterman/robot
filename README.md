@@ -11,4 +11,4 @@ RIGHT Rotate the robot 90 degrees right
 REPORT Announce the X,Y and F of the robot. This can be in any form, but standard output is sufficient
 
 Author:
-Joachim Zetterman"# robot" 
+Joachim Zetterman
